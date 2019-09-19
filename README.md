@@ -5,7 +5,8 @@ This work contributes a powerful and a well-trained model that can be used for a
 
 ROBOT:
 
-WhatsApp Image 2019-06-25 at 11 45 30 PM
+![photo](https://user-images.githubusercontent.com/45910597/65208799-c162f580-dab3-11e9-89c7-d7227ca929f9.jpeg)
+
 
 Our preparation of the model is divided into three parts:
 
