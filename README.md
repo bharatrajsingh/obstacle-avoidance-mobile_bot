@@ -17,5 +17,7 @@ Secondly, data is cleaned, all the ambiguous values are deleted and clean data i
 Lastly, a model is trained using Artificial Neural Network and fitted in the robot to avoid obstacles in real-time and reach the desired location.It can be achieved through Neural Network using Backpropagation algorithm to recognize obstacles in the environment and control its speed.
 
 DESIGN:
+![circuit](https://user-images.githubusercontent.com/45910597/65208866-f2432a80-dab3-11e9-8609-24b865247371.png)
+
 
 STRUCTURE
